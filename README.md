@@ -19,7 +19,7 @@ For this project, I built a number counting program using HTML, CSS, and Javascr
 
 ### Links
 
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://nbuylding.github.io/number-counter/)
 
 ## My process
 
